@@ -1,0 +1,25 @@
+
+
+turbo.py
+
+todo
+
+turbo2.py
+
+sin el relajito del "toasty"
+
+turbo3.py
+
+sin el sonido
+
+turbo4.py
+
+sin el aumento cuando se golpea la pelota estando en movimiento
+
+turbo5.py
+
+sin el puntaje ni el texto de "turbo pong" o la distincion del ganador
+
+turbo6.py
+
+sin las barras, ni el reseteo del estado entre una partida y la otra
